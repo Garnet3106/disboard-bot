@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-const token = 'NzQ2NTYzNDgxNjA3NzMzMjc2.X0CJbA.z5q-Ra5WyLs_1ps_HRnwYZrlYLg';//YOUR_BOT_TOKEN
+const token = 'YOUR_BOT_TOKEN';
 const prefix = 'emoji.';
 
 //var bumpupChannelID = '737878710803234916';
